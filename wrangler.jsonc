@@ -18,7 +18,7 @@
     {
       "binding": "DB",
       "database_name": "flaremo",
-      "database_id": "5a5094d8-efcc-4aef-909b-c8455358247d",
+      "database_id": "6c968d32-1e69-4786-b7d5-1418c0154e52",
       "migrations_dir": "./migrations"
     }
   ],
